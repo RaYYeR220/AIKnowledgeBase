@@ -1,0 +1,9 @@
+{
+  "id": "example-note-id",
+  "type": "context",
+  "status": "active",
+  "stability": "evolving",
+  "confidence": "high",
+  "updated": "2026-01-01",
+  "tags": ["context", "example"]
+}

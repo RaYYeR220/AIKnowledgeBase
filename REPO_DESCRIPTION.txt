@@ -1,0 +1,1 @@
+A flexible template for building a personal AI knowledge base with canonical notes, hybrid retrieval, startup-layer prompts, and clean rules for memory updates, cold starts, and generic-vs-personal query handling.

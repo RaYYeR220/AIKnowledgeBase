@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Index / runtime artifacts
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.index
+reindex-queue.jsonl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+secrets/
